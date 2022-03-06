@@ -4,6 +4,10 @@ namespace App\Controllers;
 
 class CartController extends Controller {
 
+    public function view() {
+        return view("cart");
+    }
+
     public function add() {
         // add cart item
     }
