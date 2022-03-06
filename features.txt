@@ -1,5 +1,0 @@
-Routing
-Templating
-Input validation
-MVC
-Caching

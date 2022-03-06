@@ -14,7 +14,7 @@ function view($path, $params = []) {
     echo $GLOBALS["twig"]->render($path . ".html.twig", $params);
 }
 
-function router() {
+function router(): \Bramus\Router\Router {
     return $GLOBALS["router"];
 }
 
