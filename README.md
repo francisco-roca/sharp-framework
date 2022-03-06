@@ -4,7 +4,7 @@ Performant lightweight MVC framework. Ready to build Web Apps, APIs and Microser
 
 | Framework | Size | Relative |
 | --------------- | --------------- | --------------- |
-| Sharp Framework | 1.5 MB | 0.043 |
+| Sharp Framework | 1.59 MB | 0.045 |
 | Laravel 8.0 | 34.7 MB | 1 |
 
 
