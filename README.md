@@ -1,4 +1,4 @@
-# Sharp framework
+# Sharp Framework
 
 Performant lightweight MVC framework. Ready to build Web Apps, APIs and Microservices.
 
