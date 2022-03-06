@@ -1,15 +1,15 @@
 # Sharp framework
 
-Lightweight MVC framework
+Performant lightweight MVC framework. Ready to build Web Apps, APIs and Microservices.
 
 ## Features
 
+- MVC
 - Routing
 - ORM
 - Templating
-- Input validation
-- MVC
 - Caching
+- Input validation
 
 ## Setup
 
